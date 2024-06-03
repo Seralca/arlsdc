@@ -1,0 +1,48 @@
+.Card {
+    border: 3px solid;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: 130px;
+    flex-direction: column;
+    max-width: 900px;
+    display: flex;
+    
+}
+
+
+.Card .Title {
+    padding: 5px 0px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.Card .Content {
+    flex-grow: 1;
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    
+    
+}
+
+
+.Column1 {
+    flex: 1;
+    /* a coluna ocupa a primeira parte dp espaço */
+    padding: 0;
+    border: #034383;
+    border-style: double;
+    height: 745px;
+ 
+}
+
+
+.Column2 {
+    flex: 1;
+    /* a coluna ocupa a segunda parte dp espaço */
+    padding: 0;
+    border-style: double;
+    height: 745px;
+ 
+}

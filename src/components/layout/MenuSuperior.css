@@ -1,0 +1,24 @@
+.MenuSuperior {
+    background-color: #023568;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    height: 40px;
+    border-bottom: 5px solid #006c90;
+    
+   
+}
+
+
+.MenuSuperior span a {
+    padding: 50px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;  
+     
+    
+}
+
+.MenuSuperior span a:hover {
+   background: #00000020;
+}

@@ -1,0 +1,23 @@
+.APP-Header {
+    text-align: center;
+}
+
+.Header {
+    display: flex;
+    /* permite alinhar itens horiazontalmente na mesma linha */
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+    padding: 20px;
+    background-color: #971E04;
+}
+
+.App-logo {
+    height: 40px;
+    margin-right: auto; /* alinha a logo à esquerda */
+}
+
+.App-title {
+    margin: 0 auto; /* centraliza o título */
+    color: white;
+}

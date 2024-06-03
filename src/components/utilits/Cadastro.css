@@ -1,0 +1,33 @@
+.Cadastro {
+    height: 100vh;
+
+}
+
+.Cadastro h2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.Cadastro label {
+    padding: 30px;
+    margin-bottom: 30px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.Cadastro input {
+    width: 500px;
+    align-items: end;
+    margin-bottom: 30px;
+
+}
+
+.Cadastro button {
+    color: blue;
+    margin: 30px;
+
+}
